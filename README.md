@@ -28,3 +28,6 @@ Os header são marcados com o símbolo '#'. Os mesmos têm 6 níveis que são in
 #### h4
 ##### h5
 ###### h6
+
+Itálico: *itálico*
+Negrito: **negrito**
