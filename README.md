@@ -18,6 +18,8 @@
 
 # Tutorial Markdown
 
+ - Learn it!
+
 ## Headers
 
 Os header são marcados com o símbolo '#'. Os mesmos têm 6 níveis que são indicados pela quantidade de símbolos utilizados.
