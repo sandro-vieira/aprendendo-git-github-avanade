@@ -17,7 +17,6 @@
  - installing puglins is a good practice
 
 # Tutorial Markdown
-
  - Learn it!
 
 ## Headers
