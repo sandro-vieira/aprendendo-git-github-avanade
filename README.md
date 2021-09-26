@@ -33,3 +33,4 @@ Os header são marcados com o símbolo '#'. Os mesmos têm 6 níveis que são in
 
 Itálico: *itálico*
 Negrito: **negrito**
+EOF
