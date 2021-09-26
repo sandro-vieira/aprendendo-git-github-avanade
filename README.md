@@ -14,7 +14,7 @@
  - Salvar: [w]
 
 # Visual Studio Code
-
+ - installing puglins is a good practice
 
 # Tutorial Markdown
 
